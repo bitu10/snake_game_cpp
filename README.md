@@ -1,4 +1,4 @@
-# snake_game_cpp
+# snake game in CPP
 Snake Game in C++ using Ncurses library in Linux
 
 Basic snake game which runs ont the Linux Terminal
